@@ -129,6 +129,8 @@ body {
 
 .interactive {
   padding: 95px 25px 0;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .interactive img {
